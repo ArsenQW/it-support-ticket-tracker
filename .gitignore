@@ -1,7 +1,7 @@
-*.class
-out/
+__pycache__/
+*.pyc
+*.db
+*.db-journal
+.venv/
 .idea/
-*.iml
 .DS_Store
-devices.tsv
-*.tmp
