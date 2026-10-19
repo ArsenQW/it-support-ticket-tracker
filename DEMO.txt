@@ -1,0 +1,71 @@
+Recorded sample run; all names are fictional.
+Typed menu inputs: 2, 4, 1, 2, 5, 2, 6, 0.
+
+
+IT SUPPORT TICKET TRACKER
+1. Create ticket
+2. List tickets
+3. Search tickets
+4. Change status
+5. Filter by status
+6. Summary
+0. Exit
+Choose: 
+#3 | Open | Medium | Taylor Sample
+Issue: Phone data transfer assistance
+Created: 2026-10-19 15:03:43 UTC
+
+#2 | Resolved | Low | Sam Example
+Issue: Install a PDF reader
+Created: 2026-10-19 15:03:43 UTC
+
+#1 | Open | High | Alex Demo
+Issue: Laptop cannot connect to Wi-Fi
+Created: 2026-10-19 15:03:43 UTC
+
+IT SUPPORT TICKET TRACKER
+1. Create ticket
+2. List tickets
+3. Search tickets
+4. Change status
+5. Filter by status
+6. Summary
+0. Exit
+Choose: Ticket ID: Status: 1=Open, 2=In Progress, 3=Resolved
+Choose: Status saved.
+
+IT SUPPORT TICKET TRACKER
+1. Create ticket
+2. List tickets
+3. Search tickets
+4. Change status
+5. Filter by status
+6. Summary
+0. Exit
+Choose: Status: 1=Open, 2=In Progress, 3=Resolved
+Choose: 
+#1 | In Progress | High | Alex Demo
+Issue: Laptop cannot connect to Wi-Fi
+Created: 2026-10-19 15:03:43 UTC
+
+IT SUPPORT TICKET TRACKER
+1. Create ticket
+2. List tickets
+3. Search tickets
+4. Change status
+5. Filter by status
+6. Summary
+0. Exit
+Choose: Open: 1
+In Progress: 1
+Resolved: 1
+
+IT SUPPORT TICKET TRACKER
+1. Create ticket
+2. List tickets
+3. Search tickets
+4. Change status
+5. Filter by status
+6. Summary
+0. Exit
+Choose: 
